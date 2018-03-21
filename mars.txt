@@ -2,4 +2,5 @@ mars.txt
 something new
 But the mummy will appreciate 
 This line will be added to the PI's copy.
+We added a diffrent line in the other copy. 
 
