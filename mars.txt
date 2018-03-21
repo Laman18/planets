@@ -1,3 +1,4 @@
 mars.txt
 something new
-But the mummy will appreciate 
+But the mummy will appreciate
+We added a diffrent line in the other copy. 
